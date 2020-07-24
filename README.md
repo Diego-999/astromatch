@@ -9,8 +9,8 @@ Esse foi um dos primeiros projetos que fiz em React. Clone do tinder, aplicativo
 Libs instaladas: 
   -styled-components
   -axios
-  -material-ui/core
-  -material-ui/icons
+  -material-ui
+  
   
 Obs.: arquivo packaje.json contem as versões de todas as dependências
 
